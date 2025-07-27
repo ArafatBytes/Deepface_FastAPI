@@ -1,0 +1,17 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore IDE/editor configs
+.idea/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
